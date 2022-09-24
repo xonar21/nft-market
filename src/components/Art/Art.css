@@ -1,0 +1,34 @@
+.art {
+    display: grid;
+    grid-template-columns: repeat(2,1fr);
+}
+.art__title {
+    font-weight: 400;
+    font-size: 59px;
+    line-height: 60px;
+    letter-spacing: 0.05em;
+    margin: 0;
+    margin-bottom: 22px;
+}
+.art__text {
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 160%;
+    color: #565656;
+    margin: 0;
+    margin-bottom: 40px;
+}
+.art__button {
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 25px;
+    letter-spacing: 0.065em;
+    color: #FFFFFF;
+    margin: 0;
+    background: #3D00B7;
+    border-radius: 60px;
+    border: 0;
+    width: 209px;
+    height: 65px;
+    margin-bottom: 30px;
+}
